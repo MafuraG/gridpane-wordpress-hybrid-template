@@ -1,6 +1,6 @@
 # gridpane-wordpress-template-all-plugins
 
-More random text
+More random text, more random text
 
 This repo is an example of a repo configured for Hybrid deployment
 
