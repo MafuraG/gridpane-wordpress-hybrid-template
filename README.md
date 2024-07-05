@@ -1,8 +1,6 @@
 # gridpane-wordpress-template-all-plugins
 
-### More random 
-
-Random Test Test Test
+## More random 
 
 This repo is an example of a repo configured for Hybrid deployment
 
